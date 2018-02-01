@@ -1,0 +1,22 @@
+nav a {
+    color: palegoldenrod;
+    float: left;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+ body {
+    background-color: lightskyblue;
+}
+
+h1, h2, p {
+    font-family: Courier New, Courier, monospace;
+}
+
+footer {
+    font-weight: bold;
+    color: palevioletred;
+}
